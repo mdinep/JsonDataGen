@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+
+#################################################################################
+#Linux JSON Data Generator, v1.0 						#
+#Written by Matthew Dinep 							#
+#June, 21th, 2019 								#
+#################################################################################
+
 import os,sys
 import ConfigParser
 import random
